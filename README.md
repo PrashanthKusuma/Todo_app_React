@@ -3,7 +3,7 @@
 This To Do List App made with React.
 ### Features :
 - Create new Task
-- Search Task
+- Mark task as complete
 - Edit/Update Task
 - Delete Task
 
